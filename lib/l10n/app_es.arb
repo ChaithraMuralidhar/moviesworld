@@ -1,0 +1,12 @@
+{
+  "navigationTitleHome" : "Inicio del kit de inicio de Flutter",
+  "home": "Hogar",
+  "scanner" : "Escáner",
+  "googleMap" : "Mapa de Google",
+  "apiService" : "Servicio API",
+  "offline" : "Notificación",
+  "testing offline" : "Testing Offline",
+  "notification" : "Notification",
+  "documentation" : "Documentación",
+  "logout" : "Cerrar sesión"
+}

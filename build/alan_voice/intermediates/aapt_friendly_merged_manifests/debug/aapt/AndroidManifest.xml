@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.alan.alan_voice"
+    android:versionName="unspecified" >
+
+    <uses-sdk android:minSdkVersion="21" />
+
+    <meta-data
+        android:name="flutterEmbedding"
+        android:value="2" />
+
+</manifest>

@@ -1,0 +1,1 @@
+export 'moviesOffline_page.dart';

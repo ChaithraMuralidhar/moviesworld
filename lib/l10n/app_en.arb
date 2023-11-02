@@ -1,0 +1,11 @@
+{
+  "navigationTitleHome" : "Movies World Home",
+  "home": "Home",
+  "scanner" : "Ticket Scanner",
+  "googleMap" : "Theatres near me",
+  "apiService" : "Top Movies List",
+  "testingOffline" : "Movies Stored",
+  "notification" : "Notification",
+  "documentation" : "Support",
+  "logout" : "Logout"
+}
